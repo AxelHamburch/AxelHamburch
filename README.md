@@ -3,7 +3,7 @@
 <!--
 **AxelHamburch/AxelHamburch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I'm an enthusiastic technician and I'm just discovering new possibilities.
 
 - 🔭 I’m currently working on Lightning ATM documentation
 - 🌱 I’m currently learning working with GitHub
