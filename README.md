@@ -5,8 +5,6 @@
 
 I'm an enthusiastic technician and I'm just discovering new possibilities.
 
-- 🔭 I'm currently working on improving the Lightning ATM
-- 🌱 I’m currently learning python and working with GitHub
-- 👯 I’m looking to collaborate on technical projects with bitcoin and lightning ⚡
+- 🔭 I'm currently working on lightning ⚡ projects
 - 📫 How to reach me: On Telegram or Twitter by @AxelHamburch
 
